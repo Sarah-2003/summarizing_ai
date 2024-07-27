@@ -30,7 +30,7 @@ Summize is not just another summarizer. It's your intellectual companion in the 
 
 1. Clone the cosmic repository:
    ```
-   git clone https://github.com/your-username/summize.git
+   git clone https://github.com/Sarah-2003/summize.git
    ```
 
 2. Navigate to the Summize dimension:
