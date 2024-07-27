@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path_to_your_logo.png" alt="Summize Logo" width="200"/>
+  <alt="Summize Logo" width="200"/>
   <h1>Summize: Your AI-Powered Reading Companion</h1>
   <p><em>Dive into the essence of articles, emerge with clarity.</em></p>
 </div>
@@ -74,10 +74,6 @@ This project is protected by the [MIT](https://choosealicense.com/licenses/mit/)
 - [Tailwind CSS](https://tailwindcss.com/) - The artisans of utility-first styling
 - [Framer Motion](https://www.framer.com/motion/) - Maestros of digital motion
 - [React Icons](https://react-icons.github.io/react-icons/) - Crafters of fine iconography
-
-## 📡 Summon the Creators
-
-Questions? Ideas? Prophecies? Reach out to us at [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
