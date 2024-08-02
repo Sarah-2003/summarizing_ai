@@ -37,7 +37,7 @@ const Hero = () => {
       <motion.button
         type='button'
         onClick={() =>
-          window.open("https://github.com/TidbitsJS/Summize", "_blank")
+          window.open("https://github.com/Sarah-2003/summize/tree/main", "_blank")
         }
         className='black_btn mt-5'
         whileHover={{ scale: 1.05 }}
@@ -45,7 +45,7 @@ const Hero = () => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.7 }}
-      >
+        >
         GitHub
       </motion.button>
       <motion.div
