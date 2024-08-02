@@ -1,5 +1,5 @@
 <div align="center">
-  <alt="Summize Logo" width="200"/>
+  <img src="path/to/your/logo.png" alt="Summize Logo" width="200"/>
   <h1>Summize: Your AI-Powered Reading Companion</h1>
   <p><em>Dive into the essence of articles, emerge with clarity.</em></p>
 </div>
@@ -9,6 +9,8 @@
 ## 🧠 What is Summize?
 
 Summize is not just another summarizer. It's your intellectual companion in the vast sea of information. Powered by OpenAI's GPT-4, Summize distills lengthy articles into crisp, coherent summaries, allowing you to grasp key ideas in a fraction of the time.
+
+🌐 **[Experience Summize Live](https://summize-two.vercel.app/)**
 
 ## ✨ Features That Set Us Apart
 
@@ -62,7 +64,7 @@ Summize is not just another summarizer. It's your intellectual companion in the 
 
 ## 🤝 Join the Summize Collective
 
-Your ideas, bug reports, and cosmic code contributions are welcome in our universe! Explore our [issues page](https://github.com/your-username/summize/issues) to join the mission.
+Your ideas, bug reports, and cosmic code contributions are welcome in our universe! Explore our [issues page](https://github.com/Sarah-2003/summize/issues) to join the mission.
 
 ## 📜 The Summize Codex (License)
 
@@ -74,6 +76,10 @@ This project is protected by the [MIT](https://choosealicense.com/licenses/mit/)
 - [Tailwind CSS](https://tailwindcss.com/) - The artisans of utility-first styling
 - [Framer Motion](https://www.framer.com/motion/) - Maestros of digital motion
 - [React Icons](https://react-icons.github.io/react-icons/) - Crafters of fine iconography
+
+## 🌐 Deployed Site
+
+Experience the magic of Summize: [https://summize-two.vercel.app/](https://summize-two.vercel.app/)
 
 ---
 
