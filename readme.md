@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="path/to/your/logo.png" alt="Summize Logo" width="200"/>
   <h1>Summize: Your AI-Powered Reading Companion</h1>
   <p><em>Dive into the essence of articles, emerge with clarity.</em></p>
 </div>
